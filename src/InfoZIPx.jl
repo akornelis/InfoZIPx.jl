@@ -1,4 +1,4 @@
-module InfoZIP
+module InfoZIPx
 
 export open_zip, create_zip
 
