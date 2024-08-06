@@ -1,9 +1,8 @@
-name = "InfoZIP"
-uuid = "f4508453-b816-52ab-a864-26fc7f6211fc"
-version = "0.1.6"
+name = "InfoZIPx"
+uuid = "85c6e0d9-4115-4be7-bf85-ff2b3d30e22f"
+version = "0.1.7"
 
 [deps]
-PRAS = "05348d26-1c52-11e9-35e3-9d51842d34b9"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
 
